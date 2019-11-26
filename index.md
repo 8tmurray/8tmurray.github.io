@@ -7,4 +7,8 @@ This page is under construction. Please check back periodically. In the meantime
 
 1. [RIDE Software](https://github.com/8tmurray/RIDE.git) (Manuscript under revision for Statistics in Medicine)
 2. *Coming soon*: Ultimate Rankings Software (Paywalled Manuscript, contact me for pre-print)
-3. *Coming soon*: CAT-BUB Software (Paywalled Manuscript, contact me for pre-print)
+3. *Coming soon*: Ord-BUB Software (Manuscript)
+4. *Coming soon*: Cat-BUB Software (Manuscript)
+5. *Coming soon*: Flexible Survival Modeling Software (Manuscript)
+6. *Coming soon*: GMC Prior Software (Manuscript)
+7. *Coming soon*: gsRAR Software (Manuscript)
