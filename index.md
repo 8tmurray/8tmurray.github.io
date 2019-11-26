@@ -3,7 +3,7 @@ This page is under construction. Please check back periodically. In the meantime
 - [UMN-SPH Page](https://directory.sph.umn.edu/bio/sph-biostatistics/thomas-murray)
 - [Personal Page](https://www.tamurray.com)
 
-## Projects (Coming Soon)
+## Projects
 
-1. Test Project #1
+1. [RIDE Software Repository](https://github.com/8tmurray/RIDE.git)
 2. Test Project #2
