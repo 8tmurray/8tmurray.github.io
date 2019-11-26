@@ -5,5 +5,5 @@ This page is under construction. Please check back periodically. In the meantime
 
 ## Projects
 
-1. [RIDE Software Repository](https://github.com/8tmurray/RIDE.git)
+1. [RIDE Software](https://github.com/8tmurray/RIDE.git)
 2. Test Project #2
