@@ -5,8 +5,8 @@ This page is under construction. Please check back periodically. In the meantime
 
 ## R Projects
 
-1. [RIDE Software](https://github.com/8tmurray/RIDE.git) (Manuscript submitted to Biopharmaceutical Statistics)
-2. [SepsiCool Software](https://github.com/8tmurray/SepsiCool.git) (Manuscript under revision for Bayesian Analysis)
+1. [loRIDE Software](https://github.com/8tmurray/loRIDE.git) (Manuscript under revision for Biopharmaceutical Statistics)
+2. [SepsiCool Software](https://github.com/8tmurray/SepsiCool.git) (Bayesian Analysis)
 3. *Coming soon*: Ultimate Rankings Software (Paywalled Manuscript, contact me for pre-print)
 4. *Coming soon*: Ord-BUB Software (Manuscript)
 5. *Coming soon*: Cat-BUB Software (Manuscript)
